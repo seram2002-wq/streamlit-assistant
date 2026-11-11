@@ -3,3 +3,9 @@ myenv/
 images/
 
 .env
+
+fashion_dataset/
+
+img_vdb/
+
+__pycache__/
